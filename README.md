@@ -113,8 +113,8 @@ Estou motivada a aplicar minhas competências acadêmicas e minha paixão por ap
 />
 <img 
     align="left" 
-    alt="Laravel" 
-    title="Laravel"
+    alt="DART" 
+    title="DART"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg" 
