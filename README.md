@@ -3,8 +3,11 @@
 **`Desenvolvedora FullStack`**
 
 Sou estudante universitária dedicada e entusiasmada, cursando Análise e Desenvolvimento de Sistema na Faculdade de Tecnologia de Carapicuíba, em busca da minha primeira oportunidade de estágio. Apesar de ainda não ter experiência profissional formal, construí um histórico sólido de realizações acadêmicas e extracurriculares que comprovam minha proatividade, criatividade e espírito de equipe.
+
 Ao longo da minha trajetória, conquistei medalhas em competições de debate, onde desenvolvi habilidades de comunicação, argumentação e pensamento crítico. Fui premiada em Olimpíadas de Matemática, o que reforçou minha capacidade analítica e atenção aos detalhes. Participei ativamente de projetos astronômicos, colaborando na pesquisa e construção de protótipos que amadureceram meu senso de inovação e rigor científico.
+
 Apresentei diversos trabalhos em feiras acadêmicas e de tecnologia, aprimorando minha habilidade de síntese de informação e oratória. Em hackathons, trabalhei em equipes multidisciplinares para entregar soluções funcionais sob pressão de tempo, exercitando liderança, adaptabilidade e resolução rápida de problemas. Como ápice dessas experiências, defendi meu Trabalho de Conclusão de Curso na Campus Party, demonstrando confiança, domínio técnico e capacidade de engajar audiências especializadas.
+
 Estou motivada a aplicar minhas competências acadêmicas e minha paixão por aprendizagem contínua em um ambiente profissional dinâmico. Busco um estágio que me permita contribuir com ideias frescas, assumir responsabilidades e crescer como futura profissional, enquanto agrego valor real à equipe e aos projetos da empresa.
 
 <p align="left">
