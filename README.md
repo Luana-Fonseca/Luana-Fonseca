@@ -2,7 +2,7 @@
 
 **`Desenvolvedora FullStack`**
 
-Sou estudante universitária dedicada e entusiasmada, cursando Análise e Desenvolvimento de Sistema na Faculdade de Tecnologia de Carapicuíba, em busca da minha primeira oportunidade de estágio. Apesar de ainda não ter experiência profissional formal, construí um histórico sólido de realizações acadêmicas e extracurriculares que comprovam minha proatividade, criatividade e espírito de equipe.
+Sou estudante universitária dedicada e entusiasmada, cursando Análise e Desenvolvimento de Sistema na Faculdade de Tecnologia de Carapicuíba - FATEC, em busca da minha primeira oportunidade de estágio. Apesar de ainda não ter experiência profissional formal, construí um histórico sólido de realizações acadêmicas e extracurriculares que comprovam minha proatividade, criatividade e espírito de equipe.
 
 Ao longo da minha trajetória, conquistei medalhas em competições de debate, onde desenvolvi habilidades de comunicação, argumentação e pensamento crítico. Fui premiada em Olimpíadas de Matemática, o que reforçou minha capacidade analítica e atenção aos detalhes. Participei ativamente de projetos astronômicos, colaborando na pesquisa e construção de protótipos que amadureceram meu senso de inovação e rigor científico.
 
